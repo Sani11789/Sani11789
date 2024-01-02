@@ -11,11 +11,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently studying at American International University - Bangladesh 
-- 🌱 I’m currently learning MERN stack 
+- 🔭 I’m currently Working at BJIT as a Software Engineer 
+- 🌱 I’m currently socket programming 
 - 👯 I’m looking to collaborate on GitHub Projects 
 - 💬 Ask me about anything related to programming 
-- 📫 How to reach me: I check my Email at least twice a day 
+- 📫 How to reach me: I check my Email at least twice a day
 - ⚡ Fun fact: Eat 🍗 Sleep 😴 Code 💻 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="100" />
 
 I'm a developer who loves coding and building innovative solutions. My GitHub profile showcases my projects and code samples, where I leverage my expertise to develop scalable and efficient software. I believe in the importance of clean, readable, and maintainable code. Let's collaborate and build great things together!
